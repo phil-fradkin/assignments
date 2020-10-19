@@ -1,3 +1,11 @@
 sgd_x_detector/a2/*
 */.vscode
 *.flake8
+
+*.DS_Store*
+ece324_machine_intelligence/ece324_assignment_4_1/*
+*.vscode*
+ece324_machine_intelligence/sgd_x_detector*
+ece324_machine_intelligence/student_projects*
+random_processes/a1*
+random_processes/a2*
