@@ -14,3 +14,13 @@ random_processes/a2*
 ece324_machine_intelligence/assignment_4_2/submissions/*
 ece324_machine_intelligence/assignment_4_2/student_submissions/*
 ece324_machine_intelligence/assignment_4_2/student_models/*
+
+ece324_machine_intelligence/assignment_4_2/__init__.py
+ece324_machine_intelligence/assignment_4_2/__pycache__/
+ece324_machine_intelligence/assignment_4_2/model.py
+ece324_machine_intelligence/assignment_4_2/model1.py
+ece324_machine_intelligence/assignment_4_2/models.py
+ece324_machine_intelligence/assignment_4_2/resnet.py
+ece324_machine_intelligence/assignment_4_2/score_student_test_models.ipynb
+ece324_machine_intelligence/assignment_4_2/small_model.py
+ece324_machine_intelligence/assignment_4_2/student_model_performances.dat
